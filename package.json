@@ -1,0 +1,14 @@
+{
+  "name": "filter-chain",
+  "version": "1.0.0",
+  "description": "A chainable filter pattern",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "Tyler Whited",
+  "license": "GNU GPLv3",
+  "dependencies": {
+    "lodash": "^4.16.6"
+  }
+}
